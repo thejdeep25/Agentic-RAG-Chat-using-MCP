@@ -62,11 +62,6 @@ Go to [http://localhost:8501](http://localhost:8501) to use the chatbot.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 🙏 Acknowledgements
 
